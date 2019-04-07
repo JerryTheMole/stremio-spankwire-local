@@ -1,11 +1,5 @@
 const modules = require('./modules')
 
-	// pornhub: pornManifest({ name: 'PornHub', logo: 'http://1000logos.net/wp-content/uploads/2017/12/Pornhub-symbol.jpg' }),
-	// redtube: pornManifest({ name: 'RedTube', logo: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Redtube_banner.png' }),
-	// tube8: pornManifest({ name: 'Tube8', logo: 'https://superrepo.org/static/images/icons/original/xplugin.video.tube8.png.pagespeed.ic.qma93k6r-C.png' }),
-	// youporn: pornManifest({ name: 'YouPorn', logo: 'https://blog.youporn.com/wp-content/uploads/2012/02/youporn-logo.png' }),
-	// spankwire: pornManifest({ name: 'SpankWire', logo: 'https://pbs.twimg.com/profile_images/665600820419952640/POpDwoka_400x400.png' }),
-
 const defaults = {
 	name: 'SpankWire',
 	prefix: 'mspankwire_',
